@@ -1,0 +1,21 @@
+name: 'Coverage reporter'
+description: 'Provides information on test coverage reports'
+author: 'AlexRogalskiy'
+
+inputs:
+  reportType:
+    description: "Report type"
+    required: false
+
+outputs:
+  testCoverage:
+    description: "Text for test coverage report"
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+# Ref: https://haya14busa.github.io/github-action-brandings/
+branding:
+  icon: 'file-text'
+  color: 'white'
