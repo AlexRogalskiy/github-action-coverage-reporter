@@ -10,8 +10,8 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/github-action-coverage-reporter/discussions)
 
-[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-coverage-reporter.svg/?label=active+issues\&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-coverage-reporter/?ref=repository-badge)
-[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16681/branches/362753/badge/grade.svg)](https://deepscan.io/dashboard#view=project\&tid=11946\&pid=16681\&bid=362753)
+[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-coverage-reporter.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-coverage-reporter/?ref=repository-badge)
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16682/branches/362837/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16682&bid=362837)
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/github-action-coverage-reporter)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/github-action-coverage-reporter)
@@ -34,7 +34,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/context:javascript)
 
-[![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter/branch/main/graph/badge.svg?token=ZiMgSTfzPv)](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter)
+[![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter/branch/main/graph/badge.svg?token=W3OGb42h0a)](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter)
 [![CI](https://github.com/AlexRogalskiy/github-action-coverage-reporter/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-coverage-reporter/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-coverage-reporter.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-coverage-reporter)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/github-action-coverage-reporter/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
