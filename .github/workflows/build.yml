@@ -84,6 +84,9 @@ jobs:
       - name: Build Dependencies
         run: npm run all
 
+      - name: Run tests
+        run: npm run test:all
+
       - name: Check action configuration
         uses: ./
 
