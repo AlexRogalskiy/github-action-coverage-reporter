@@ -2,7 +2,7 @@
 
 > GitHub Action to provide information on test coverage reports
 
-[![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-codecov--reporter-blue?logo=github)](https://github.com/marketplace/actions/coverage-reporter)
+[![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-codecov--reporter-blue?logo=github)](https://github.com/marketplace/actions/codecov-reporter)
 
 [![management: perfekt👌](https://img.shields.io/badge/management-perfekt👌-red.svg)](https://github.com/lekterable/perfekt)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
