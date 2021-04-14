@@ -1,4 +1,4 @@
-name: 'Coverage reporter'
+name: 'Code coverage reporter'
 description: 'Provides information on test coverage reports'
 author: 'AlexRogalskiy'
 
@@ -17,5 +17,5 @@ runs:
 
 # Ref: https://haya14busa.github.io/github-action-brandings/
 branding:
-  icon: 'file-text'
+  icon: 'code'
   color: 'white'
