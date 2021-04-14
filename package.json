@@ -1,7 +1,7 @@
 {
     "name": "github-action-coverage-reporter",
     "version": "0.0.0-dev",
-    "description": "Automatically generate file size report by provided parameters",
+    "description": "Automatically generate comments on issue/pull request by provided parameters",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "license": "GPL-3.0",
