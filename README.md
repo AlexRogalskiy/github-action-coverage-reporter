@@ -31,8 +31,8 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-coverage-reporter.svg)](https://david-dm.org/AlexRogalskiy/github-action-coverage-reporter)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-coverage-reporter.svg)](https://david-dm.org/AlexRogalskiy/github-action-coverage-reporter?type=dev)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/context:javascript)
 [![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter/branch/main/graph/badge.svg?token=W3OGb42h0a)](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter)
 [![CI](https://github.com/AlexRogalskiy/github-action-coverage-reporter/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-coverage-reporter/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-coverage-reporter.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-coverage-reporter)
