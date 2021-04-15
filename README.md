@@ -1,4 +1,4 @@
-# *File Size*
+# *Coverage Reporter*
 
 > GitHub Action to provide information on test coverage reports
 

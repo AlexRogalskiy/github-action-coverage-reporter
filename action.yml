@@ -1,5 +1,5 @@
 name: 'Codecov reporter'
-description: 'Provides information on test coverage reports'
+description: 'Automatically generate information on test coverage reports by provided parameters'
 author: 'AlexRogalskiy'
 
 inputs:
