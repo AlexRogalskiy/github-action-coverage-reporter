@@ -28,7 +28,7 @@ LABEL "com.github.actions.icon"="code"
 LABEL "com.github.actions.color"="white"
 
 ## Setting environment variables
-ENV HOME $HOME_DIR
+ENV APP_DIR $HOME_DIR
 ENV LC_ALL en_US.UTF-8
 ENV LANG ${LC_ALL}
 
@@ -36,7 +36,7 @@ ENV LANG ${LC_ALL}
 RUN apk add --no-cache git
 
 ## Creating work directory
-WORKDIR $HOME
+WORKDIR $APP_DIR
 
 ## Copying project sources
 COPY dist/index.js ./
@@ -47,4 +47,4 @@ COPY package*.json ./
 RUN npm install
 
 ## Running package bundle
-ENTRYPOINT [ "sh", "-c", "node $HOME/index.js" ]
+ENTRYPOINT [ "sh", "-c", "node $APP_DIR/index.js" ]
