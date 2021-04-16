@@ -30,7 +30,7 @@ LABEL "com.github.actions.color"="white"
 ## Setting environment variables
 ENV APP_DIR $HOME_DIR
 ENV LC_ALL en_US.UTF-8
-ENV LANG ${LC_ALL}
+ENV LANG $LC_ALL
 
 ## Installing dependencies
 RUN apk add --no-cache git
@@ -39,9 +39,9 @@ RUN apk add --no-cache git
 WORKDIR $APP_DIR
 
 ## Copying project sources
-COPY dist/index.js ./
+COPY dist/index.js .
 
-COPY package*.json ./
+COPY package*.json .
 
 ## Installing project dependencies
 RUN npm install
