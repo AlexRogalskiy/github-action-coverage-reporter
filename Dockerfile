@@ -47,4 +47,4 @@ COPY package*.json ./
 RUN npm install
 
 ## Running package bundle
-ENTRYPOINT ["node", "/index.js"]
+ENTRYPOINT ["node", "$HOME/index.js"]
