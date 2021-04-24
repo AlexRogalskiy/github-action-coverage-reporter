@@ -36,7 +36,7 @@ export type ResourceOptions = {
     /**
      * Report type
      */
-    reportType: string
+    readonly reportType: string
 }
 
 //--------------------------------------------------------------------------------------------------
