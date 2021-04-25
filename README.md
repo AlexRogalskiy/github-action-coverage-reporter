@@ -31,6 +31,7 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-coverage-reporter.svg)](https://david-dm.org/AlexRogalskiy/github-action-coverage-reporter)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-coverage-reporter.svg)](https://david-dm.org/AlexRogalskiy/github-action-coverage-reporter?type=dev)
 
+[![codebeat badge](https://codebeat.co/badges/426c6995-91aa-47f2-b4ef-d3847c18071f)](https://codebeat.co/projects/github-com-alexrogalskiy-github-action-coverage-reporter-master)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-coverage-reporter.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-coverage-reporter/context:javascript)
 [![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter/branch/main/graph/badge.svg?token=W3OGb42h0a)](https://codecov.io/gh/AlexRogalskiy/github-action-coverage-reporter)
